@@ -30,7 +30,7 @@ This project provides a simple React frontend for interacting with the Humble Su
 
 ## 🚀 Usage
 
-1.  Start erver:
+1.  Start server:
 
     ```bash
     npm run dev
