@@ -37,7 +37,6 @@ This project provides a simple React frontend for interacting with the Humble Su
     ```
 
 
-
 ## If I had more time...
 
 *   I would implement more advanced features like searching and filtering the superhero list.
